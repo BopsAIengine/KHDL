@@ -1,9 +1,10 @@
-##Thử nghiệm các  mô hình trong việc nhân diện cảm xúc khuôn mặt 
 
-# Constrastive Learning for image
+# Thử nghiệm các  mô hình trong việc nhân diện cảm xúc khuôn mặt 
 
-# Vision Transformer
+ Constrastive Learning for image
 
-# Native Vision Transformer
+ Vision Transformer
 
-# YOLO
+ Native Vision Transformer
+
+ YOLO
